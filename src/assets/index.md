@@ -1,5 +1,5 @@
 ---
-title: "EVA Air A321-200"
+title: "EVA Air A330-300"
 retired: false
 category: "Wordpress Posts"
 ---
